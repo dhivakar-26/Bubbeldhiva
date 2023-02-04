@@ -1,7 +1,7 @@
 
 import java.util.*;
 import java.util.Arrays;
-public class Bubblesort{
+public class Bubblesort1{
     public static void main(String[] args){
         Scanner scan=new Scanner(System.in);
         System.out.println("Enter the size of the element:");
